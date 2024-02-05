@@ -1,5 +1,5 @@
 # 베이스 이미지
-FROM amazoncorretto:21
+FROM amazoncorretto:17
 # 작성자 라벨 생성
 LABEL maintainer "mujinchun7<mujinchun7@gmail.com>"
 # 버전 라벨 생성
