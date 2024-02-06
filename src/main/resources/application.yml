@@ -2,9 +2,8 @@
 spring:
   profiles:
     default: test
-    active: prod
-
-  # ?? jpa ??
+#    active: prod
+  # 공동 jpa 설정
   jpa:
     generate-ddl: true
     properties:
